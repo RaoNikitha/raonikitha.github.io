@@ -1,6 +1,7 @@
 ---
 title: "Defining the Level of Hardware Obfuscation using Machine Learning Techniques"
 collection: projects
+excerpt: "Analysis of various patterns in the input-output sequences of various obfuscated circuits to define a metric to quantify the level of obfuscation in a circuit using machine learning techniques."
 type: "Internship Project (June '18 - July '18)"
 permalink: /projects/2018-07-25-HardwareObfuscation
 venue: "Carnegie Mellon University"

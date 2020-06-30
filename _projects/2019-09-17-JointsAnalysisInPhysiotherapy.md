@@ -1,6 +1,7 @@
 ---
 title: "Analysis of Joints for Tracking Fitness and Monitoring Progress in Physiotherapy"
 collection: projects
+excerpt: "Developing a physiotherapy framework employing Microsoft Kinect Sensor to provide an engaging physiotherapy session along with performance analysis to monitor progress in patients."
 type: "Research Project"
 permalink: /projects/2019-09-17-JointsAnalysisInPhysiotherapy
 venue: "PES Center for Pattern Recognition, PES University"

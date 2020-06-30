@@ -1,6 +1,7 @@
 ---
 title: "Studying Ransomware Attacks Using Web Search Logs"
 collection: projects
+excerpt: "We perform a study to mine insights about ransomware attacks by analyzing query logs from Bing web search engine."
 type: "Research Project"
 permalink: /projects/2020-02-24-RansomwareAttacks
 venue: "Microsoft Research Lab - India"

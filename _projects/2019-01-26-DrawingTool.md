@@ -1,6 +1,7 @@
 ---
 title: "PlayIt: A Pluggable And Interactive Drawing Tool For Technical Applications"
 collection: projects
+excerpt: "Developing a generic web based drawing tool that supports construction, analysis and evaluation of technical diagrams by providing flexibility to developers to plug-in various domains of interest."
 type: "Class Project (Aug '16 - May '19)"
 permalink: /projects/2019-01-26-DrawingTool
 venue: "PES University"

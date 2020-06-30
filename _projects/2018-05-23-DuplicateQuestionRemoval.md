@@ -1,6 +1,7 @@
 ---
 title: "Intent Based Duplicate Question Removal"
 collection: projects
+excerpt: "Identify whether two questions have the same intent or not. GloVe encoding and a network consisting of fully connected ReLU layers followed by sigmoid classifier were employed on the Quora dataset."
 type: "Class Project (Jan '18 - May '18)"
 permalink: /projects/2018-05-23-DuplicateQuestionRemoval
 venue: "PES University"

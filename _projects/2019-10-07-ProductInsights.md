@@ -1,6 +1,7 @@
 ---
 title: "Product Insights: Analyzing Product Intents in Web Search "
 collection: projects
+excerpt: "We study search logs from Bing web search engine to characterize user intents and study user behavior for product search."
 type: "Research Project"
 permalink: /projects/2019-10-07-ProductInsights
 venue: "Microsoft Research Lab - India"
