@@ -13,8 +13,8 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
-$serif                      : Georgia, Times, serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$serif                      : "Titillium Web", Georgia, Times, serif;
+$sans-serif                 : "Titillium Web", -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
@@ -53,8 +53,8 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #fff;
-$background-color           : #fff;
+$body-color                 : #fdfdfd;
+$background-color           : #fdfdfd;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
@@ -64,12 +64,13 @@ $primary-color              : #7a8288;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+$info-color                 : #527bbd;
 
 /* brands */
 $behance-color              : #1769FF;
 $dribbble-color             : #ea4c89;
 $facebook-color             : #3b5998;
+$reddit-color               : #ff4500;
 $flickr-color               : #ff0084;
 $foursquare-color           : #0072b1;
 $github-color               : #171516;
@@ -121,7 +122,7 @@ $x-large                    : 1280px !default;
    ========================================================================== */
 
 $right-sidebar-width-narrow : 0px;
-$right-sidebar-width        : 0px;
+$right-sidebar-width        : 300px;
 $right-sidebar-width-wide   : 0px;
 
 $susy: (

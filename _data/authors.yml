@@ -16,3 +16,16 @@ Name2 Name2:
   avatar      : "bio-photo.jpg"
   twitter     : "name2"
   google_plus : "Name"
+
+Raghav Somani:
+  name        : "Nikitha Rao"
+  bio         : ""
+  avatar      : "profile.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:t-nirao@microsoft.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://raonikitha.github.io"
+    
