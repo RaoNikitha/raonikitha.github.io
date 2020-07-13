@@ -1,11 +1,11 @@
 ---
-title: "Sourvenir Of Memories"
+title: "Souvenir Of Memories"
 date: 2016-12-16
 permalink: /literaryposts/2016-12-16-SourvenirOfMemories/
 excerpt: "A short story to bring light and increase awareness on domestic abuse and mental health wellbeing. [Trigger warning!!]"
 ---
 
-'Sourvenir Of Memories' is a short story that was written to bring light and increase awareness on domestic abuse and mental health wellbeing. 
+'Souvenir Of Memories' is a short story that was written to bring light and increase awareness on domestic abuse and mental health wellbeing. 
 
 Trigger warning - Please note that some readers may find parts of the story disturbing. 
 
