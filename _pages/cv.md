@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-The detailed PDF verison of my CV can be found here - [CV](\files\NikithaRao_CV.pdf){: .btn .btn--inverse}
+The detailed PDF verison of my CV can be found here - [CV](\files\NikithaRao_CV_July2020.pdf){: .btn .btn--inverse}
 
 Research Interests
 ------

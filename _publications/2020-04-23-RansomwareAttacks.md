@@ -1,13 +1,14 @@
 ---
 title: "Studying Ransomware Attacks Using Web Search Logs"
 collection: publications
-permalink: /publications/2020-05-01-RansomwareAttacks
+permalink: /publications/2020-04-23-RansomwareAttacks
 excerpt: 'The short paper has been accepted for presentation.'
-date: 2020-05-01
+date: 2020-04-23
 venue: '43rd International ACM SIGIR Conference on Research and Development in Information Retrieval'
 year: '2020'
 authors: 'Chetan Bansal*, Pantazis Deligiannis*, Chandra Maddila*, Nikitha Rao*'
 arxiv: 'https://arxiv.org/abs/2005.00517'
+#paperurl: 'https://arxiv.org/abs/2005.08591'
 #bib: 'https://ui.adsabs.harvard.edu/abs/2020arXiv200208936K'
 
 ---
