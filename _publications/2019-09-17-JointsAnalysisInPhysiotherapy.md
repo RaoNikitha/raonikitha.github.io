@@ -17,4 +17,4 @@ The paper has been accepted for oral presentation at [ICSIPA 2019](https://sps.i
 > Collaborators - Piyush M. Surana, Rahul Ragesh, [Dr. Gowri Srinivasa](https://faculty.pes.edu/p10019)
 
 Please find all the relevant resources below:
-1. [Paper](https://ieeexplore.ieee.org/abstract/document/8977749){:target="_blank"}.
+1. [Conference paper](https://ieeexplore.ieee.org/abstract/document/8977749){:target="_blank"}.
