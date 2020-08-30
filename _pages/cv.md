@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "CURRICULUM VITAE"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -22,12 +22,24 @@ I seek to build systems using data-driven techniques.
 ------
 
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+      {% if post.venue != '' %}
+          {% include archive-single-cv.html %}
+      {% endif %}
   {% endfor %}</ul>
+
+[Preprints](https://raonikitha.github.io/publications/){:target="_blank"}
+------
+  <ul>{% for post in site.publications reversed %}
+      {% if post.venue == '' %}
+          {% include archive-single-cv.html %}
+      {% endif %}
+  {% endfor %}</ul>
+
+
 
 Education
 ------
-* Bachelor's in Technology (B.Tech) from [PES University](https://cs.pes.edu/) (previously known as PES Institue of Technology or PESIT)<br>
+* Bachelor's in Technology (B.Tech) from [PES University](https://cs.pes.edu/) (previously known as PES Institute of Technology or PESIT)<br>
   * Major - Computer Science and Engineering
   * Specialization - Data Science
 
@@ -49,7 +61,7 @@ Work Experience
 * Summer 2018: Research Intern
   * [Carnegie Mellon University, Pittsburgh](https://www.cmu.edu/)
   * Advisor - [Dr. Shawn Blanton](https://cylab.cmu.edu/directory/bios/blanton-shawn.html)
-  * Problem Statement - Analysis of various patterns in the input-output sequences of various obfuscated circuits to define a metric to quantify the level of obfuscation in a circuit using machine learning techniques.  
+  * [Problem Statement](https://raonikitha.github.io/projects/2018-07-25-HardwareObfuscation) - Analysis of various patterns in the input-output sequences of various obfuscated circuits to define a metric to quantify the level of obfuscation in a circuit using machine learning techniques.  
 
 * Summer School Program 2017
   * Was among the youngest students selected for the 5th Summer School Program conducted by the Computer Science and Automation (CSA) Department at the Indian Institute of Science, India. (July '17)  
@@ -75,11 +87,12 @@ Achievements
 ------
 * Won the Best Student Award in the Computer Science Department for the graduating class of 2019 at PES University.  
 
+* Five time recipient of the CNR Rao scholarship for demonstrating academic excellence in Computer Science Department, PES University, India. 
+
 * Winner at Datathon a data analytics based-hackathon at PES University, India. (2018) 
 
 * Runner up at the TechQuiz in the Summer School Program at Computer Science and Automation department, Indian Institute of Science, Bangalore, India. (July 2017) 
 
-* Five time recipient of the CNR Rao scholarship for demonstrating academic excellence in Computer Science Department, PES University, India. 
 
 <!-- Talks
 ======

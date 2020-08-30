@@ -6,7 +6,7 @@ excerpt: 'The short paper has been accepted for poster presentation. [Acceptance
 date: 2020-07-16
 venue: '29th ACM International Conference on Information and Knowledge Management (CIKM)'
 year: '2020'
-authors: 'Nikitha Rao, Chetan Bansal, Subhabrata Mukherjee, Chandra Maddila'
+authors: '<b>Nikitha Rao</b>, Chetan Bansal, Subhabrata Mukherjee, Chandra Maddila'
 arxiv: 'https://arxiv.org/abs/2005.08591'
 #paperurl: 'https://arxiv.org/abs/2005.08591'
 #bib: 'https://ui.adsabs.harvard.edu/abs/2020arXiv200208936K'

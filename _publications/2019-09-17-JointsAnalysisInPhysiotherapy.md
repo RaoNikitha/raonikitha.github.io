@@ -6,7 +6,7 @@ excerpt: 'The paper has been accepted for oral presentation.'
 date: 2019-09-17
 venue: 'IEEE International Conference on Signal and Image Processing Applications (ICSIPA)'
 year: '2019'
-authors: 'Nikitha Rao, Piyush M Surana, Rahul Ragesh, Gowri Srinivasa'
+authors: '<b>Nikitha Rao</b>, Piyush M Surana, Rahul Ragesh, Gowri Srinivasa'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8977749'
 
 ---

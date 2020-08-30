@@ -1,16 +1,30 @@
 ---
 layout: archive
-title: "Publications"
+title: "PUBLICATIONS"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+You can also find my articles on <u><a href="https://scholar.google.com/citations?user=33De4NEAAAAJ&hl=en">my Google Scholar profile</a>.</u>
+
 
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+    {% if post.venue != '' %}
+      {% include archive-single.html %}
+    {% endif %}
 {% endfor %}
+
+
+{% unless page.header.overlay_color or page.header.overlay_image %}
+  <h1 class="page__title">PREPRINTS</h1>
+{% endunless %}
+
+{% for post in site.publications reversed %}
+    {% if post.venue == '' %}
+      {% include archive-single.html %}
+    {% endif %}
+{% endfor %}
+
+

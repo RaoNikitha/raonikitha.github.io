@@ -6,7 +6,7 @@ excerpt: 'The short paper has been accepted for poster presentation. [Acceptance
 date: 2020-04-23
 venue: '43rd International ACM SIGIR Conference on Research and Development in Information Retrieval'
 year: '2020'
-authors: 'Chetan Bansal*, Pantazis Deligiannis*, Chandra Maddila*, Nikitha Rao*'
+authors: 'Chetan Bansal*, Pantazis Deligiannis*, Chandra Maddila*, <b>Nikitha Rao</b>*'
 arxiv: 'https://arxiv.org/abs/2005.00517'
 paperurl: 'https://dl.acm.org/doi/10.1145/3397271.3401189'
 #bib: 'https://ui.adsabs.harvard.edu/abs/2020arXiv200208936K'
