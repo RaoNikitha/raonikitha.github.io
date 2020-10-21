@@ -16,4 +16,5 @@ This work has been accepted as a short paper at [SIGIR 2020](https://sigir.org/s
 > Collaborators - [Chetan Bansal](https://www.microsoft.com/en-us/research/people/chetanb/), [Chandra Maddila](https://www.microsoft.com/en-us/research/people/chmaddil/), [Pantazis Deligiannis](https://www.microsoft.com/en-us/research/people/pdeligia/)
 
 Please find all the relevant resources below:
-1. [ArXiv](https://arxiv.org/abs/2005.00517){:target="_blank"}.
+1. [Preprint on ArXiv.](https://arxiv.org/abs/2005.00517){:target="_blank"}
+2. [Conference paper along with presentation video.](https://dl.acm.org/doi/10.1145/3397271.3401189){:target="_blank"}

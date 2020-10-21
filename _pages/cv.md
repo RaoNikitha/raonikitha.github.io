@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-The detailed PDF verison of my CV can be found here - [CV](\files\NikithaRao_CV_July2020.pdf){: .btn .btn--inverse}
+The detailed PDF verison of my CV can be found here - [CV](\files\NikithaRao_CV_October2020.pdf){: .btn .btn--inverse}
 
 Research Interests
 ------
 I seek to build systems using data-driven techniques.
 
-* Domains - Data Science, Machine Learning, Information Retrival, Data Mining, Web Search Log Analysis, Data Analysis and Machine Learning for Software Engineering
+* Domains - Data Science, Machine Learning, Data Analysis and Machine Learning for Software Engineering, Information Retrival, Data Mining, Web Search Log Analysis
 
 
 [Publications](https://raonikitha.github.io/publications/){:target="_blank"}
@@ -35,6 +35,15 @@ I seek to build systems using data-driven techniques.
       {% endif %}
   {% endfor %}</ul>
 
+
+Patents
+------
+* <i>'Identification of Content Gaps based on Relative User-Selection Rates between Multiple Discrete Content Sources'</i> filed with the USPTO (October 16, 2020). <br>
+  * Co-inventors: Chetan Bansal, Junia George, Casey Gossard, Dung Nguyen, Dave Ludwig, Curtis Anderson.
+* <i>'ExtraQuery Context-Aided Search Intent Detection'</i> filed with the USPTO (October 9, 2020). <br>
+  * Co-inventors: Chetan Bansal, Joe Guan, Mark Wilson-Thomas, Nachiappan Nagappan, Thomas Zimmermann.
+* <i>'Automatic Recognition of Entities Related to Cloud Incidents'</i> filed with the USPTO (June 19, 2020). <br>
+  * Co-inventors: Manish Shetty, Chetan Bansal, Sumit Kumar, Nachiappan Nagappan, Thomas Zimmermann.
 
 
 Education

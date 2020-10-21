@@ -16,4 +16,5 @@ This work has been accepted as a short paper at [CIKM 2020](https://www.cikm2020
 > Collaborators - [Chetan Bansal](https://www.microsoft.com/en-us/research/people/chetanb/), [Dr. Subho Mukherjee](https://www.microsoft.com/en-us/research/people/submukhe/), [Chandra Maddila](https://www.microsoft.com/en-us/research/people/chmaddil/)
 
 Please find all the relevant resources below:
-1. [ArXiv](https://arxiv.org/abs/2005.08591){:target="_blank"}.
+1. [Preprint on ArXiv.](https://arxiv.org/abs/2005.08591){:target="_blank"}
+2. [Conference paper along with presentation video.](https://dl.acm.org/doi/abs/10.1145/3340531.3412090){:target="_blank"}
