@@ -14,4 +14,4 @@ Prior to the fellowship, I attended [PES University](https://cs.pes.edu/) (previ
 
 My interests broadly lie in the field of Data Science and Machine Learning for Software Engineering. Some related topics that have caught my attention are Data Mining, Web Search Query Analysis and Information Retrival.
 
-In my free time, I like to read, write, draw and do yoga.
+In my free time, I like to play the piano, read, write and draw.
