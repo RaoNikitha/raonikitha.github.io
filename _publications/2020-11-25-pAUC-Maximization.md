@@ -2,7 +2,7 @@
 title: "Handling Class Imbalance with POISE: pAUC Optimization in Supervised Experiments"
 collection: publications
 permalink: /publications/preprints/2020-11-25-pAUC-Maximization
-excerpt: "A preprint of this work is available."
+excerpt: "A preliminary version of this work won the <b>Best Short Paper Award </b> at MLADS-SYNAPSE 2020 (<i>Microsoft internal Conference on Machine Learning and Data Science for Asia-Pacific region.</i>) [Acceptance Rate ≈ 8%]"
 date: 2020-11-25
 venue: ''
 year: '2020'
