@@ -8,7 +8,7 @@ venue: 'Mining Software Repositories (MSR)'
 year: '2021'
 authors: '<b>Nikitha Rao</b>, Chetan Bansal, Joe Guan'
 arxiv: 'https://arxiv.org/abs/2011.11950'
-#paperurl: 'https://arxiv.org/abs/2005.08591'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9463144'
 #bib: 'https://ui.adsabs.harvard.edu/abs/2020arXiv200208936K'
 ---
 
@@ -20,6 +20,7 @@ The paper has been accepted for virtual presentation at [MSR 2021](https://2021.
 
 Please find all the relevant resources below:
 1. [Preprint on ArXiv.](https://arxiv.org/abs/2011.11950){:target="_blank"}
-2. [Search4Code: Web queries dataset for code search.](https://github.com/microsoft/Search4Code/){:target="_blank"}
+2. [Conference paper.](https://ieeexplore.ieee.org/abstract/document/9463144){:target="_blank"}
+3. [Search4Code: Web queries dataset for code search.](https://github.com/microsoft/Search4Code/){:target="_blank"}
 
     
