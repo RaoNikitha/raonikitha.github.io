@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first year PhD student at the [Institute for Software Research](https://www.isri.cmu.edu), School of Computer Science, [Carnegie Mellon University](https://www.cmu.edu) where I am adviced by [Dr. Vincent Hellendoorn](https://vhellendoorn.github.io){:target="_blank"}. My interests broadly lie in the field of Data Science, Machine Learning and Machine Learning for Software Engineering. 
+I am a first year PhD student at the [Institute for Software Research](https://www.isri.cmu.edu), School of Computer Science, [Carnegie Mellon University](https://www.cmu.edu) where I am adviced by [Prof. Vincent Hellendoorn](https://vhellendoorn.github.io){:target="_blank"}. My interests broadly lie in the field of Data Science, Machine Learning and Machine Learning for Software Engineering. 
 
 Previously, I spent two years as a [Research Fellow](https://www.microsoft.com/en-us/research/academic-program/research-fellows-program-at-microsoft-research-india/){:target="_blank"} at [Microsoft Research Lab - India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/){:target="_blank"} where I was fortunate to work with [Chetan Bansal](https://www.microsoft.com/en-us/research/people/chetanb/){:target="_blank"} on using Machine Learning techniques to aid the Software Developement process. I have also had the opportunity to collaborate with Dr. Sreangsu Acharyya, [Dr. Subho Mukherjee](https://www.microsoft.com/en-us/research/people/submukhe/), [Dr. Nachi Nagappan](https://nachinagappan.github.io/) and [Dr. Tom Zimmermann](http://thomas-zimmermann.com/) on several projects. 
 
