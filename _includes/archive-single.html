@@ -43,7 +43,7 @@
     {% if post.collection == 'teaching' %}
       <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.collection == 'publications' and post.venue != '' %}
-      <i>{{ post.authors }}</i><br><div style="line-height:2.0"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ "Published at: " }}</strong><i>{{ post.venue }}</i>, {{ post.year | default: "1900-01-01" }}</div><br>
+      <i>{{ post.authors }}</i><br><div style="line-height:2.0"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ "Published at: " }}</strong><i>{{ post.venue }}</i>, {{ post.year | default: "1900-01-01" }}</div>
       {% if post.paperurl %}
         [<a href=" {{ post.paperurl }} " target="_blank"><u>paper</u></a>]
       {% endif %}
@@ -60,7 +60,7 @@
         [<a href=" {{ post.data }} " target="_blank"><u>data</u></a>]
       {% endif %}
     {% elsif post.collection == 'publications' and post.venue == '' %}
-      <i>{{ post.authors }}</i><br><div style="line-height:2.0"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ "Under Review" }}</strong>, {{ post.year | default: "1900-01-01" }}</div><br>
+      <i>{{ post.authors }}</i><br><div style="line-height:2.0"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ "Under Review" }}</strong>, {{ post.year | default: "1900-01-01" }}</div>
       {% if post.paperurl %}
         [<a href=" {{ post.paperurl }} " target="_blank"><u>paper</u></a>]
       {% endif %}
