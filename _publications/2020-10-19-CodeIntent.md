@@ -1,7 +1,7 @@
 ---
 title: "Search4Code: Code Search Intent Classification Using Weak Supervision"
 collection: publications
-permalink: /publications/preprints/2020-10-19-CodeIntent
+permalink: /publications/2020-10-19-CodeIntent
 excerpt: "The paper has been accepted for virtual presentation."
 date: 2021-01-29
 venue: 'Mining Software Repositories (MSR)'

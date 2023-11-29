@@ -27,7 +27,9 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
+      {% if post.collection  == 'publications' %}
+        {{ title }}
+      {% elseif post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
@@ -48,9 +50,9 @@
      <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ "Posted on: " }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
     {% endif %}
 
-    {% if post.excerpt and site.read_more != 'enabled' %}
+    {% if post.excerpt and site.read_more != 'enabled' and post.collection != 'publications' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-    {% elsif post.excerpt and site.read_more == 'enabled' %}
+    {% elsif post.excerpt and site.read_more == 'enabled' and post.collection != 'publications'%}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
@@ -72,6 +74,8 @@
       {% endif %}
       {% if post.code %}
         [<a href=" {{ post.code }} " target="_blank"><u>code</u></a>]
+      {% if post.data %}
+        [<a href=" {{ post.data }} " target="_blank"><u>data</u></a>]
       {% endif %}
     </p>
 

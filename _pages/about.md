@@ -7,11 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first year PhD student at the [Institute for Software Research](https://www.isri.cmu.edu), School of Computer Science, [Carnegie Mellon University](https://www.cmu.edu) where I am adviced by [Prof. Vincent Hellendoorn](https://vhellendoorn.github.io){:target="_blank"}. My interests broadly lie in the field of Data Science, Machine Learning and Machine Learning for Software Engineering. 
+I am a PhD student at the [Software and Societal Systems Department](https://s3d.cmu.edu) (formerly known as the Institute for Software Research), School of Computer Science, [Carnegie Mellon University](https://www.cmu.edu) where I am adviced by [Prof. Vincent Hellendoorn](https://vhellendoorn.github.io){:target="_blank"} and [Prof. Claire Le Goues](https://clairelegoues.com){:target="_blank"}. My research interests include Large Language Models for Code and Machine Learning for Software Engineering. 
 
 Previously, I spent two years as a [Research Fellow](https://www.microsoft.com/en-us/research/academic-program/research-fellows-program-at-microsoft-research-india/){:target="_blank"} at [Microsoft Research Lab - India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/){:target="_blank"} where I was fortunate to work with [Chetan Bansal](https://www.microsoft.com/en-us/research/people/chetanb/){:target="_blank"} on using Machine Learning techniques to aid the Software Developement process. I have also had the opportunity to collaborate with Dr. Sreangsu Acharyya, [Dr. Subho Mukherjee](https://www.microsoft.com/en-us/research/people/submukhe/), [Dr. Nachi Nagappan](https://nachinagappan.github.io/) and [Dr. Tom Zimmermann](http://thomas-zimmermann.com/) on several projects. 
 
 Prior to the fellowship, I attended [PES University](https://cs.pes.edu/) where I obtained a Bachelor's in Technology (B.Tech) in Computer Science and Engineering with a specialization in Data Science in 2019. I am grateful to have had the opportunity to work with [Dr. Gowri Srinivasa](https://faculty.pes.edu/p10019) on my Bachelor's thesis. 
 
 
-In my free time, I like to play the piano, read, write and draw.
+In my free time, I like to play the piano, read, and bake. Meet my puppy, [Flynn](\images\flynn.jpg){:target="_blank"}!! [Flynn's Instagram](https://www.instagram.com/flynn.poochon/)
+
+## News
+* [November 2023] Gave a talk on "CAT-LM: Training Language Models on Aligned Code And Tests" at JetBrains Research. [(Recording)](https://www.youtube.com/watch?v=OYg8I36FLyY)
+* [September 2023] Paper titled "CAT-LM: Training Language Models on Aligned Code And Tests" accepted at ASE 2023. [(Preprint)](https://arxiv.org/abs/2310.01602)
+* [May 2023] Preprint of my work titled "AI for Low-Code for AI" is now available. Paper currently under review. [(Preprint)](https://arxiv.org/abs/2305.20015)
