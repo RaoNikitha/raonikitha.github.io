@@ -14,7 +14,7 @@ Previously, I spent two years as a [Research Fellow](https://www.microsoft.com/e
 Prior to the fellowship, I attended [PES University](https://cs.pes.edu/) where I obtained a Bachelor's in Technology (B.Tech) in Computer Science and Engineering with a specialization in Data Science in 2019. I am grateful to have had the opportunity to work with [Dr. Gowri Srinivasa](https://faculty.pes.edu/p10019) on my Bachelor's thesis. 
 
 
-In my free time, I like to play the piano, read, and bake. Meet my puppy, [Flynn](\images\flynn.jpg){:target="_blank"}!! [Flynn's Instagram](https://www.instagram.com/flynn.poochon/)
+Meet my puppy, [Flynn](\images\flynn.jpg){:target="_blank"}!! Follow Flynn's adventures on [Instagram](https://www.instagram.com/flynn.poochon/)!
 
 ## News
 * [November 2023] Gave a talk on "CAT-LM: Training Language Models on Aligned Code And Tests" at JetBrains Research. [(Recording)](https://www.youtube.com/watch?v=OYg8I36FLyY)
