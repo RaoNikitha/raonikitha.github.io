@@ -17,7 +17,6 @@ Prior to the fellowship, I attended [PES University](https://cs.pes.edu/) where 
 Meet my puppy, [Flynn](\images\flynn.jpg){:target="_blank"}!! Follow Flynn's adventures on [Instagram](https://www.instagram.com/flynn.poochon/)!
 
 ## News
-* [March 2024] Working on my Thesis Proposal. Here is the [proposal document](\files\Thesis_Proposal_NikithaRao.pdf).
 * [December 2023] Gave a talk titled "Beyond Syntax: Navigating Challenges in AI-Generated Code" at Microsoft Research.
 * [December 2023] Paper titled "AI for Low-Code for AI" accepted at IUI 2024. [(Preprint)](https://arxiv.org/abs/2305.20015)
 * [November 2023] Gave a talk on "CAT-LM: Training Language Models on Aligned Code And Tests" at JetBrains Research. [(Recording)](https://www.youtube.com/watch?v=OYg8I36FLyY)
