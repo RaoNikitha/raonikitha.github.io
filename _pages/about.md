@@ -15,7 +15,7 @@ Prior to the fellowship, I attended [PES University](https://cs.pes.edu/) where 
 
 Meet my puppy, [Flynn](\images\flynn.jpg){:target="_blank"}!! Follow Flynn's adventures on [Instagram](https://www.instagram.com/flynn.poochon/)!
 
-**UPDATE: I am on the job market looking for full time research based industry roles starting mid 2025! Please reach out if you think I'd be a good fit for your team. Here is my [CV](\files\NikithaRao_CV.pdf).**
+**UPDATE: I am on the job market looking for research based industry roles starting mid 2025! Please reach out if you think I'd be a good fit for your team. Here is my [CV](\files\NikithaRao_CV.pdf).**
 
 ## News
 * [Oct 2024] Invited to attend the [Dagstuhl Seminar on Automated Programming and Program Repair](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24431) as a Young Researcher! 
