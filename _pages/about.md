@@ -18,6 +18,7 @@ Meet my puppy, [Flynn](\images\flynn.jpg){:target="_blank"}!! Follow Flynn's adv
 **UPDATE: I am on the job market looking for research based industry roles starting mid 2025! Please reach out if you think I'd be a good fit for your team. Here is my [CV](\files\NikithaRao_CV.pdf).**
 
 ## News
+* [Nov 2024] Awarded the Hima and Jive Fellowship in Computer Science at CMU! 
 * [Oct 2024] Invited to attend the [Dagstuhl Seminar on Automated Programming and Program Repair](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24431) as a Young Researcher! 
 * [May 2024] Will be interning with the RiSE group at Microsoft Research for the summer where I will be working with Sarah Fakhoury and Nikhil Swamy.
 * [April 2024] Gave a talk titled "User Intent and Needs for Code Search" at a [Dagstuhl Seminar on Code Search](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24172).
